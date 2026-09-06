@@ -1,0 +1,14 @@
+# Secrets — never commit your real config
+firmware/config.h
+
+# Arduino IDE / PlatformIO build artifacts
+*.hex
+*.bin
+*.elf
+.pio/
+.vscode/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
