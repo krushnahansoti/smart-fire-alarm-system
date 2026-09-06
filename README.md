@@ -1,11 +1,7 @@
 # IoT-Based Smart Fire Alarm System
 
 An ESP32-based fire detection system that combines gas, flame, and environmental sensing with real-time alerts via Telegram, MacroDroid (mobile), and a Node-RED dashboard — plus a local web interface for manual testing.
-
-Built as a final-year B.E. (CSE) project at G H Patel College of Engineering & Technology, CVM University.
-
-**Authors:** Krushna Hansoti, Pragnesh Parmar, Rutang Patel
-**Guide:** Prof. Rahul Patel
+**Author:** Krushna Hansoti
 
 ## Features
 
